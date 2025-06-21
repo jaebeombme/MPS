@@ -73,10 +73,10 @@ Loss : 0.0803 / Acc : 0.9779
 
 
 ### Accuracy per class
-t1 : 1.0000 
+T1 : 100%
 
-t2 : 0.9955
+T2 : 99.55%
 
-t1ce : 0.9339
+T1 Contrast-Enhenced : 93.39%
 
-flair : 0.9857
+FLAIR : 98.57%
