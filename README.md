@@ -8,9 +8,7 @@ https://drive.google.com/drive/folders/176T0DLI5cb2faLDeFzmYNFvcFP0uT2IY?usp=dri
 
 ### Train
 Brats 2018 (Train & Validation) + Brats 2020 (Train)
-
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/20798156-e789-4d1d-b4a2-95383f5baa1a" />
-
+<img width="697" alt="image" src="https://github.com/user-attachments/assets/e733656e-bb7a-4ad5-b386-fea2eb5409f1" />
 
 
 ### Test
