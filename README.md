@@ -1,4 +1,4 @@
-# PulseSequence
+# MPS: MRI Pulse Sequence Classification Model
 
 model parameter
 
