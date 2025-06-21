@@ -42,10 +42,6 @@ Brats 2020 (Validation) + Severence Brain MRI Data (Glioma + Metastasis)
 
 `RandHistogramShiftd(keys=["image"], num_control_points=10, prob=0.4)`
 
-`RandCoarseDropoutd(keys=["image"], holes=4, spatial_size=(48, 48), fill_value=0,  prob=0.5)`
-
-
-![image](https://github.com/user-attachments/assets/bbe25673-2028-4afa-9d83-e79bf64f9037)
 
 
 ## Train
