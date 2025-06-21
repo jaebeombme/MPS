@@ -15,4 +15,4 @@ https://drive.google.com/drive/folders/176T0DLI5cb2faLDeFzmYNFvcFP0uT2IY?usp=dri
 
 ![image](https://github.com/user-attachments/assets/d2f227a7-561c-4226-8897-81b6c1fdbffb)
 
-{'t1': 1.0,'t2': 0.9844, 't1ce': 0.9429, 'flair': 0.9661}
+{'t1': 1.0, 't2': 0.9844, 't1ce': 0.9429, 'flair': 0.9661}
