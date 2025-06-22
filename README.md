@@ -6,14 +6,8 @@ https://drive.google.com/drive/folders/176T0DLI5cb2faLDeFzmYNFvcFP0uT2IY?usp=dri
 
 ## Data
 
-### Train
-Brats 2018 (Train & Validation) + Brats 2020 (Train)
-<img width="697" alt="image" src="https://github.com/user-attachments/assets/e733656e-bb7a-4ad5-b386-fea2eb5409f1" />
+![image](https://github.com/user-attachments/assets/d125f884-04bb-4a2e-87a3-9670b182b143)
 
-
-### Test
-Brats 2020 (Validation) + Severence Brain MRI Data (Glioma + Metastasis)
-<img width="695" alt="image" src="https://github.com/user-attachments/assets/74d2a217-7975-4f7b-8846-f8ffe2f66ff9" />
 
 
 ### Transform
