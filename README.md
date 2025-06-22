@@ -6,7 +6,8 @@ https://drive.google.com/drive/folders/176T0DLI5cb2faLDeFzmYNFvcFP0uT2IY?usp=dri
 
 ## Data
 
-![image](https://github.com/user-attachments/assets/d125f884-04bb-4a2e-87a3-9670b182b143)
+![image](https://github.com/user-attachments/assets/335bf173-5c9f-4bf9-bfaf-6d0e25fc5c73)
+
 
 
 
