@@ -1,9 +1,5 @@
 # MPS: MRI Pulse Sequence Classification Model
 
-### model parameter
-
-https://drive.google.com/drive/folders/176T0DLI5cb2faLDeFzmYNFvcFP0uT2IY?usp=drive_link
-
 ## Data
 
 ![image](https://github.com/user-attachments/assets/05229847-1c60-483d-9a89-7bd9228ba636)
